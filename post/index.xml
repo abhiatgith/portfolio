@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Abhilash Rajan</title>
+    <link>https://abhiatgith.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Abhilash Rajan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Mar 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://abhiatgith.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project: Web Scrapping from Job Site</title>
+      <link>https://abhiatgith.github.io/portfolio/post/project-3/</link>
+      <pubDate>Wed, 16 Sep 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://abhiatgith.github.io/portfolio/post/project-3/</guid>
+      <description>The goal is to scrap the first 10 pages of IT Jobs listed on &amp;ldquo;https://www.monsterindia.com&amp;rdquo; website and store them in a MongoDB database. The project files and the detailed description of the program flow has been provided below. All the files related to the project are available in the GitHub repository link provided below. This project can be further enhanced to do job related analysis and predictions as per specific requirements.</description>
+    </item>
+    
+    <item>
+      <title>Project: Incident/Ticket Resolution time Prediction</title>
+      <link>https://abhiatgith.github.io/portfolio/post/project-1/</link>
+      <pubDate>Sat, 08 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhiatgith.github.io/portfolio/post/project-1/</guid>
+      <description>The goal is to create a Machine learning application which predicts the estimated time and date for the final closure of a opened Service request/service ticket based on the given attributes. I have built a complete end to end solution for this project and hosted the project files on the Heroku platform. The link to use and the steps for performing the demo has been provided below. Please note that this application was built using an existing dataset as cited in the documentation of the project but can be modified to suit similar requirements.</description>
+    </item>
+    
+    <item>
+      <title>Data science Topics</title>
+      <link>https://abhiatgith.github.io/portfolio/post/data-science-topics/</link>
+      <pubDate>Sun, 01 Mar 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://abhiatgith.github.io/portfolio/post/data-science-topics/</guid>
+      <description>This section has various materials related to Data Science topics such as Machine learning algorithms, Machine Learning Concepts and How to documents on step by step instructions on achieving some of the more common tasks in data science like for example - Setting up your environments etc. All the material is in the form of Jupyter notebook files and have been segregated into the respective folder by topic to enable easy access.</description>
+    </item>
+    
+    <item>
+      <title>Project: Banking Subscription</title>
+      <link>https://abhiatgith.github.io/portfolio/post/project-2/</link>
+      <pubDate>Sat, 29 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhiatgith.github.io/portfolio/post/project-2/</guid>
+      <description>The task of this project is to predict if the client will subscribe to a bank term deposit. The dataset provided is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be (&amp;lsquo;yes&amp;rsquo;) or not (&amp;lsquo;no&amp;rsquo;) subscribed. The details of the project files and the repository link has been provided below.</description>
+    </item>
+    
+  </channel>
+</rss>
