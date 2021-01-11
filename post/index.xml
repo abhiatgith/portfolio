@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Abhilash Rajan</title>
+    <title>Projects &amp; Articles on Abhilash Rajan</title>
     <link>https://abhiatgith.github.io/portfolio/post/</link>
-    <description>Recent content in Projects on Abhilash Rajan</description>
+    <description>Recent content in Projects &amp; Articles on Abhilash Rajan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Mar 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://abhiatgith.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>Data science Topics</title>
+      <title>Article: Data science Topics</title>
       <link>https://abhiatgith.github.io/portfolio/post/data-science-topics/</link>
       <pubDate>Sun, 01 Mar 2020 11:14:48 -0400</pubDate>
       
